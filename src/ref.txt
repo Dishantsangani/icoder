@@ -1,0 +1,13 @@
+  // emailjs
+  
+  //   .sendForm("service_jxtgu11", "template_9l6cgf6", form.current, {
+  //     publicKey: "xXm1Dy2ZY7QheJk4W",
+  //   })
+  //   .then(
+  //     () => {
+  //       console.log("SUCCESS!");
+  //     },
+  //     (error) => {
+  //       console.log("FAILED...", error.text);
+  //     }
+  //   );
