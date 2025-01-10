@@ -1,5 +1,5 @@
 🚀 Project Name: iCoder <br/>
-📝 Description : iCoder is a modern React.js web application designed to provide a seamless and efficient coding platform experience. Featuring a clean and responsive user interface, the app ensures users can log in securely and access coding-related functionalities with ease. Built using the ReqRes API for authentication, it demonstrates the integration of robust login systems with real-world usability.<br/>
+📝 Description :  iCoder is a modern React.js web application designed to provide a seamless and efficient coding platform experience. Featuring a clean and responsive user interface, the app ensures users can log in securely and access coding-related functionalities with ease. Built using the ReqRes API for authentication, it demonstrates the integration of robust login systems with real-world usability.<br/>
 
 🌟 Features <br/>
 • Responsive Design : Fully optimized for desktops, tablets, and mobile devices.<br/>
@@ -31,6 +31,7 @@
 • Add features like user registration and profile management.<br/>
 • Integrate additional APIs for coding-related tools or resources.<br/>
 • Include dark mode for better usability.<br/>
+
 🧑‍💻 Author<br/>
 • Name      : Dishant Sangani<br/>
 • Portfolio : My Portfolio<br/>
